@@ -1,0 +1,30 @@
+apiVersion: v1
+entries:
+  nxrm-ce:
+  - apiVersion: v2
+    appVersion: 3.92.3
+    created: "2026-06-04T13:38:09.732988+03:00"
+    description: Single-node deployment of Sonatype Nexus Repository Community Edition
+      - Universal Binary repository
+    digest: 83b64cf5b4b3fe31a5d616b0f2c6ec6ab4fe866e6d6902ee8dfd0aabde2f4fb0
+    home: https://www.sonatype.com/products/sonatype-nexus-repository
+    icon: https://sonatype.github.io/helm3-charts/NexusRepo_Vertical.svg
+    keywords:
+    - artifacts
+    - dependency
+    - management
+    - sonatype
+    - nexus
+    - repository
+    - quickstart
+    - ci
+    - repository-manager
+    - nexus3
+    maintainers:
+    - name: Sonatype
+    name: nxrm-ce
+    type: application
+    urls:
+    - nxrm-ce-92.3.0.tgz
+    version: 92.3.0
+generated: "2026-06-04T13:38:09.731011+03:00"
